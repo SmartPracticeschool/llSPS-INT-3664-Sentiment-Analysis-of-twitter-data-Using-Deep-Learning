@@ -5,6 +5,7 @@
 
 <br><br>
 href="https://youtu.be/uK5in1E_1e0">For project demo click here!</a>
+<img src="https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg" width="400" height="250">
 
 # project description
 
