@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg" width="40250">0" height="
+<img src="https://www.kdnuggets.com/images/sentiment-fig-1-689.jpg" width="400" height="250">
 <br><br>
 href="https://youtu.be/uK5in1E_1e0">For project demo click here!</a>
 
@@ -21,10 +21,10 @@ Flask web application to make predictions.Finally, we deployed our FLASK app in 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://wallpaperaccess.com/full/1728953.jpg" width="200" height="100">
+<img src="https://cdn-images-1.medium.com/max/1018/1*I5O6NX_DIKYI1VBuLfX77Q.jpeg" width="200" height="100">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://datasciencechalktalk.files.wordpress.com/2019/07/0-8.png?w=1070" width="200" height="100">
+<img src="https://miro.medium.com/max/2672/1*_Nb5AADlqVQJDa0YyNFKGA.jpeg" width="200" height="100">
 
 # Languages and framework used
 
